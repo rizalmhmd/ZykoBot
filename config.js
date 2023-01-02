@@ -53,7 +53,7 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281333154367' //pasang no bot lo 
+global.nomorbot = '6281327238906' //pasang no bot lo 
 global.nomorown = '6281333154367' //pasang no own lo
 global.nomorown1 = '6281333154367'
 global.nomorown2 = '6281333154367'
